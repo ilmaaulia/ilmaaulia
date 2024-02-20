@@ -1,6 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F1E05A&lines=Hi+there+%E0%B8%85%D5%9E%E2%80%A2%EF%BB%8C%E2%80%A2%D5%9E%E0%B8%85;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85%E2%99%A1)](about:blank)
 
 <!--
+### Hi there 👋
+
 **ilmaaulia/ilmaaulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
